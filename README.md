@@ -1,6 +1,6 @@
 # writeups-adworld
 
-[攻防世界](https://adworld.xctf.org.cn/) 题目WP。
+攻防世界 https://adworld.xctf.org.cn/  题目WP。
 
 //因攻防世界系统正在维护，暂停更新~
 
