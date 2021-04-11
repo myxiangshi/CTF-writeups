@@ -1,4 +1,4 @@
-# writeup-adworld
+# writeups-adworld
 
 [攻防世界](https://adworld.xctf.org.cn/) 题目WP。
 
