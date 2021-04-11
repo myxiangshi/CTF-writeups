@@ -66,15 +66,3 @@
 | :sob:advance                                                 |                                                              |                                                              |              |
 |                                                              |                                                              |                                                              |              |
 
-## **web**
-
-|                   |           |                   |           |
-| ----------------- | --------- | ----------------- | --------- |
-| :muscle:**basic** |           |                   |           |
-| view_source       | robots    | backup            | cookie    |
-| disabled_button   | weak_auth | simple_php        | get_post  |
-| xff_referer       | webshell  | command_execution | simple_js |
-|                   |           |                   |           |
-| :sob:advance      |           |                   |           |
-|                   |           |                   |           |
-
