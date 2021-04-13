@@ -12,6 +12,14 @@
 
 #### 入门
 
+[栈溢出](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/%E6%A0%88%E6%BA%A2%E5%87%BA.pdf)
+
+[使用ROPEmporium学习ROP技术](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/ROPEmporium/%E4%BD%BF%E7%94%A8ROPEmporium%E5%AD%A6%E4%B9%A0ROP%E6%8A%80%E6%9C%AF.pdf)
+
+[格式化字符串](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2.pdf)
+
+[整数溢出](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/%E6%95%B4%E6%95%B0%E6%BA%A2%E5%87%BA.pdf)
+
 [CTF Pwn 板块精选贴分类索引](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/collect/CTF%E3%80%8EPwn%E3%80%8F%E7%89%88%E5%9D%97%E7%B2%BE%E9%80%89%E5%B8%96%E5%88%86%E7%B1%BB%E7%B4%A2%E5%BC%95.pdf)
 
 [Q版缓冲区溢出教程](https://github.com/ByeRose/writeups-ctf/blob/main/pwn/collect/Q%E7%89%88%E7%BC%93%E5%86%B2%E5%8C%BA%E6%BA%A2%E5%87%BA%E6%95%99%E7%A8%8B.pdf)
@@ -32,22 +40,23 @@
 
 #### 实例
 
-- [整数溢出]()
-- [栈溢出]()
-- [使用ROPEmporium学习ROP技术]()
-- [格式化字符串]()
-
-
-
-[level3](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2libc%5Dlevel3%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C%20.pdf)
-
-[cgpwn2](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2sys%5Dcgpwn2%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf)
-
-[when_did_you_born](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dwhen_did_you_born%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf)
-
-[hello_pwn](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dhello_pwn%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf)
-
-[guess_num](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dguess_num%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf)
+|                                                              |      |      |
+| ------------------------------------------------------------ | ---- | ---- |
+| 样本                                                         | 类型 | 标签 |
+| [test_your_nc](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/buuctf_test_your_nc) |      |      |
+| [level3](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2libc%5Dlevel3%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C%20.pdf) |      |      |
+| [cgpwn2](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2sys%5Dcgpwn2%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) |      |      |
+| [when_did_you_born](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dwhen_did_you_born%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) |      |      |
+| [hello_pwn](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dhello_pwn%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) |      |      |
+| [guess_num](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dguess_num%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) |      |      |
+| [rip](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/buuctf_rip) |      |      |
+| [pwn3](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/cctf2016_pwn3) |      |      |
+| [ciscn_2019_c_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_c_1) |      |      |
+| [ciscn_2019_n_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_n_1) |      |      |
+| [warmup](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/csaw_2016_warmup) |      |      |
+| [pwn1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/sctf2016_pwn1) |      |      |
+| [goodluck](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/uiuctf2017_goodluck) |      |      |
+|                                                              |      |      |
 
 
 
