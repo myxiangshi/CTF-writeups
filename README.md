@@ -2,11 +2,15 @@
 
 利用CTF入门安全研究，在此以CTF样本为例，记录各种漏洞利用。
 
+- [pwn](#pwn)
+- [web](#web)
+- [misc](#misc)
+
 ---
 
 
 
-## pwn_collect
+## <a id="pwn">pwn</a>
 
 ### 入门
 
@@ -44,7 +48,7 @@
 
 
 
-## web
+## <a id="web">web</a>
 
 > 还没想好
 
@@ -58,7 +62,7 @@
 
 
 
-## misc_collect
+## <a id="misc">misc</a>
 
 >  攻防世界MISC区大合集
 
