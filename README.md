@@ -40,20 +40,20 @@
 
 #### 实例
 
-|                                                              |      |                        |
-| ------------------------------------------------------------ | ---- | ---------------------- |
-| [ciscn_2019_n_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_n_1) | 栈   | 栈溢出                 |
-| [when_did_you_born](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dwhen_did_you_born%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                 |
-| [hello_pwn](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dhello_pwn%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                 |
-| [guess_num](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dguess_num%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                 |
-| [goodluck](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/uiuctf2017_goodluck) | 栈   | 格式化字符串           |
-| [cgpwn2](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2sys%5Dcgpwn2%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出; ret2text       |
-| [rip](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/buuctf_rip) | 栈   | 栈溢出; ret2text       |
-| [warmup](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/csaw_2016_warmup) | 栈   | 栈溢出; ret2text       |
-| [pwn1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/sctf2016_pwn1) | 栈   | 栈溢出; ret2text       |
-| [ciscn_2019_c_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_c_1) | 栈   | 栈溢出; ret2libc       |
-| [level3](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2libc%5Dlevel3%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C%20.pdf) | 栈   | 栈溢出; ret2libc       |
-| [pwn3](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/cctf2016_pwn3) | 栈   | 格式化字符串; ret2libc |
+|                                                              |      |                                                              |
+| ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
+| [ciscn_2019_n_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_n_1) | 栈   | 栈溢出                                                       |
+| [when_did_you_born](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dwhen_did_you_born%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                                                       |
+| [hello_pwn](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dhello_pwn%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出![](https://komarev.com/ghpvc/?username=ByeRose&color=green&label=栈溢出) |
+| [guess_num](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dguess_num%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                                                       |
+| [goodluck](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/uiuctf2017_goodluck) | 栈   | 格式化字符串                                                 |
+| [cgpwn2](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2sys%5Dcgpwn2%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出; ret2text                                             |
+| [rip](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/buuctf_rip) | 栈   | 栈溢出; ret2text                                             |
+| [warmup](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/csaw_2016_warmup) | 栈   | 栈溢出; ret2text                                             |
+| [pwn1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/sctf2016_pwn1) | 栈   | 栈溢出; ret2text                                             |
+| [ciscn_2019_c_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_c_1) | 栈   | 栈溢出; ret2libc                                             |
+| [level3](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2libc%5Dlevel3%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C%20.pdf) | 栈   | 栈溢出; ret2libc                                             |
+| [pwn3](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/cctf2016_pwn3) | 栈   | 格式化字符串; ret2libc                                       |
 
 
 
