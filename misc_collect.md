@@ -18,9 +18,9 @@
 
 - [磁盘内存&pyc](https://github.com/ByeRose/writeups-ctf/blob/main/misc/%E7%A3%81%E7%9B%98%E5%86%85%E5%AD%98%26pyc.pdf)
 
-## 题目
+## 实例
 
-来自[攻防世界](https://adworld.xctf.org.cn/)
+> 来自[攻防世界](https://adworld.xctf.org.cn/)
 
 |                                                              |                                                              |                                                              |                                                              |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -69,6 +69,4 @@
 | [玩具车](https://my.oschina.net/u/4403673/blog/3345410)      | *godwave*                                                    | [memory_forensics](https://wooy0ung.github.io/writeup/2018/05/01/ciscn-2018-memory-forensics/) | [寻找入侵者](https://lanvnal.com/2018/04/29/CISCN2018-WP/#toc-heading-11) |
 | [文件分析](https://cloud.tencent.com/developer/article/1078231) | [Whisper](https://www.sqlsec.com/2018/01/ctfimg.html#toc-heading-17) | [联盟决策大会](https://www.anquanke.com/post/id/178392)      | [我萌吗](https://www.codercto.com/a/3957.html)               |
 | *Wiretapped*                                                 | *benefit*                                                    | *jpg*                                                        | [memory_forensics1](https://wooy0ung.github.io/writeup/2018/05/01/ciscn-2018-memory-forensics/) |
-
-
 
