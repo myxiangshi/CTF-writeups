@@ -32,11 +32,12 @@
 
 #### 实例
 
-- **ROP**
+- [整数溢出]()
+- [栈溢出]()
+- [使用ROPEmporium学习ROP技术]()
+- [格式化字符串]()
 
 
-
-- 
 
 [level3](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5Bret2libc%5Dlevel3%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C%20.pdf)
 
@@ -48,17 +49,25 @@
 
 [guess_num](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dguess_num%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf)
 
+
+
 ---
 
 
 
 ## <a id="web">web</a>
 
-> 还没想好
+#### 入门
 
+[i春秋半月刊第2期：代码审计]()
 
+[i春秋半月刊第3期：代码审计]()
 
+[i春秋半月刊第4期：SQL注入]()
 
+[i春秋月刊第5期：进击的XSS]()
+
+#### 实例
 
 
 
