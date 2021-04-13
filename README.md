@@ -4,7 +4,12 @@
 
 [misc](https://github.com/ByeRose/writeups-ctf/blob/main/misc_collect.md)
 
+> 攻防世界MISC区大合集
+
 [pwn](https://github.com/ByeRose/writeups-ctf/blob/main/pwn_collect.md)
+
+> CTF Wiki 全攻略
 
 [web](https://github.com/ByeRose/writeups-ctf/blob/main/web_collect.md)
 
+> 还没想好
