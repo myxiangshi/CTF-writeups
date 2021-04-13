@@ -42,7 +42,6 @@
 
 |                                                              |      |                        |
 | ------------------------------------------------------------ | ---- | ---------------------- |
-| 样本                                                         | 类型 | 标签                   |
 | [ciscn_2019_n_1](https://github.com/ByeRose/writeups-ctf/tree/main/pwn/ciscn_2019_n_1) | 栈   | 栈溢出                 |
 | [when_did_you_born](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dwhen_did_you_born%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                 |
 | [hello_pwn](https://github.com/ByeRose/writeups-adworld/blob/main/pwn/%5B%E6%A0%88%E6%BA%A2%E5%87%BA%5Dhello_pwn%20%E6%94%BB%E9%98%B2%E4%B8%96%E7%95%8C.pdf) | 栈   | 栈溢出                 |
