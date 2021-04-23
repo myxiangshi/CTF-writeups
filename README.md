@@ -1,6 +1,8 @@
 # writeups-ctf
 
-利用CTF入门安全研究，在此以CTF样本为例，记录各种漏洞利用。
+😄利用CTF入门安全研究，在此以CTF样本为例，记录各种漏洞利用。
+
+🚩我们的[CTF战队](https://ctftime.org/team/152403)
 
 ## 目录
 
